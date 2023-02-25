@@ -1,12 +1,12 @@
 package Electricity;
 
-public class BillDetails {
+public class MeterInfo {
 
-	public BillDetails(String meter) {
+	public MeterInfo(String meter) {
 		// TODO Auto-generated constructor stub
 	}
 
-	public void setVisible(boolean b) {
+	public void setVisble(boolean b) {
 		// TODO Auto-generated method stub
 		
 	}

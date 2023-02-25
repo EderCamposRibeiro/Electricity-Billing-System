@@ -1,8 +1,8 @@
 package Electricity;
 
-public class BillDetails {
+public class PayBill {
 
-	public BillDetails(String meter) {
+	public PayBill(String meter) {
 		// TODO Auto-generated constructor stub
 	}
 
