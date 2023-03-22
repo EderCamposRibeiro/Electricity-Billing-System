@@ -1,6 +1,5 @@
 package Electricity;
 
-import java.awt.ActiveEvent;
 import java.awt.Color;
 import java.awt.FlowLayout;
 import java.awt.Font;
